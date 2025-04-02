@@ -22,7 +22,7 @@ This project is a **zero-cost AI-powered website brochure creator** built using 
    git clone https://github.com/GarlicDeveloper/Brochure-
    cd Brochure-
    ```
-2. **Install dependencies**:
+2. **Install dependencies**:(Currently None) Please View The Jupyter File's 1st Cell for referance
    ```bash
    pip install -r requirements.txt
    ```
