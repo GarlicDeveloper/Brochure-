@@ -19,7 +19,7 @@ This project is a **zero-cost AI-powered website brochure creator** built using 
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GarlicDeveloper/Brochure-
+   git clone https://github.com/GarlicDeveloper/Brochure-Maker
    cd Brochure-
    ```
 2. **Install dependencies**:(Currently None) Please View The Jupyter File's 1st Cell for referance
